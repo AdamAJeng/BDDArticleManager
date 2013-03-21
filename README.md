@@ -5,8 +5,6 @@ Description: A Simple program showcasing Cucumber + RSpec
 
 Author: David Gullmarsvik
 
-Run by Adam A Jeng
-
 To run the program
 --------------------
 
